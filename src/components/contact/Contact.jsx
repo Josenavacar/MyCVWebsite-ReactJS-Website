@@ -35,7 +35,7 @@ export default function Contact() {
 
                     <div class="card">
                         <Person className="icon"/>
-                        <p><a href="https://github.com/jnavacar" style={{textDecoration: 'none', color: 'white'}} target="_blank" rel="noreferrer">View Resume</a></p>
+                        <p><a href="https://drive.google.com/file/d/1etCyUF4W5M0xe7uRPbFu_CLJhJETtOyg/view?usp=sharing" style={{textDecoration: 'none', color: 'white'}} target="_blank" rel="noreferrer">View Resume</a></p>
                     </div>
                 </div>
             </div>

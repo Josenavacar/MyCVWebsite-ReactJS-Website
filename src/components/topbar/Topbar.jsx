@@ -19,7 +19,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     </div>
                     <div className="itemContainer">
                         <Person className="icon"/>
-                        <a href="" className="cv"><span>Download Resume</span></a>
+                        <a href="https://drive.google.com/file/d/1etCyUF4W5M0xe7uRPbFu_CLJhJETtOyg/view?usp=sharing" className="cv"><span>Resume</span></a>
                         
                     </div>
                 </div>
