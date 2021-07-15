@@ -2,13 +2,13 @@ export const featuredPortfolio = [
     {
         id: 1,
         title: "Ticket Website",
-        img: "assets/ticketwebsite.png",
+        img: "assets/reactspringbootlogo.png",
         link: "https://github.com/jnavacar/TicketVendingWebsite-ReactJS-SpringBoot"
     },
     {
         id: 2,
         title: "Portfolio Website",
-        img: "assets/portfolioimg.png",
+        img: "assets/reactlogo.png",
         link: "https://github.com/jnavacar/jnavacar-cvsite"
     },
     {
@@ -16,6 +16,12 @@ export const featuredPortfolio = [
         title: "NightOfTheNerds",
         img: "assets/unitylogo.png",
         link: "https://github.com/jnavacar/NightOfTheNerdsEscapeRoom-UnityProject"
+    },
+    {
+        id: 4,
+        title: "Mobeye App",
+        img: "assets/csharplogo.png",
+        link: "https://github.com/jnavacar/MobeyeApplication-PhoneApp"
     }
 ];
 
@@ -23,13 +29,13 @@ export const webappPortfolio = [
     {
         id: 1,
         title: "Ticket Website",
-        img: "assets/ticketwebsite.png",
+        img: "assets/reactspringbootlogo.png",
         link: "https://github.com/jnavacar/TicketVendingWebsite-ReactJS-SpringBoot"
     },
     {
         id: 2,
         title: "Portfolio Website",
-        img: "assets/portfolioimg.png",
+        img: "assets/reactlogo.png",
         link: "https://github.com/jnavacar/jnavacar-cvsite"
     }
 ];
@@ -62,12 +68,12 @@ export const csharpPortfolio = [
         title: "Complaint App",
         img: "assets/csharplogo.png",
         link: "https://github.com/jnavacar/ComplaintApp-WinFormApp"
+    },
+    {
+        id: 2,
+        title: "Mobeye App",
+        img: "assets/csharplogo.png",
+        link: "https://github.com/jnavacar/MobeyeApplication-PhoneApp"
     }
     
-];
-
-export const cPortfolio = [
-    {
-
-    }
 ];

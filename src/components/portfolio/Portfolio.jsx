@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import PortfolioList from "../portfolioList/PortfolioList";
 import "./portfolio.scss"
-import { featuredPortfolio, webappPortfolio, gamedevPortfolio, csharpPortfolio, cPortfolio } from "../../data";
+import { featuredPortfolio, webappPortfolio, gamedevPortfolio, csharpPortfolio } from "../../data";
 
 export default function Portfolio() {
 
@@ -24,10 +24,6 @@ export default function Portfolio() {
         {
             id: "C#",
             title: "C#"
-        },
-        {
-            id: "C",
-            title: "C"
         }
     ];
 
@@ -46,9 +42,6 @@ export default function Portfolio() {
             case "C#":
                 setData(csharpPortfolio);
                 break;
-            case "C":
-                setData(cPortfolio);
-                break;
             default:
                 setData(featuredPortfolio);
         }
@@ -56,7 +49,7 @@ export default function Portfolio() {
 
     return (
         <div className="portfolio" id="portfolio">
-            <h1>Portfolio</h1>
+            <h1>Projects</h1>
             <ul>
                 {list.map((item) => (
                     <PortfolioList title={item.title} active={selected === item.id} setSelected={setSelected} id={item.id}/>
@@ -66,7 +59,7 @@ export default function Portfolio() {
             <div className="container">
                 {data.map((d) => (
                     <div className="item">
-                        <a href={d.link}>
+                        <a href={d.link} target="_blank" rel="noreferrer">
                             <img 
                                 src= {d.img}
                                 alt=""
