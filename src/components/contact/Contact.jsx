@@ -1,14 +1,7 @@
-import { useState } from "react";
-import {GitHub, Person, Mail, PhoneAndroid, MicNone} from "@material-ui/icons"
+import {GitHub, Person, Mail, PhoneAndroid} from "@material-ui/icons"
 import "./contact.scss"
 
 export default function Contact() {
-    const [message, setMessage] = useState(false)
-
-    const handleSubmit = (e)=>{
-        e.preventDefault();
-        setMessage(true);
-    }
 
     return (
         <div className="contact" id="contact">
