@@ -15,12 +15,6 @@ export default function Contact() {
                         <Mail className="icon"/>
                         <p>jnavacar1998@gmail.com</p>
                     </div>
-
-                    <div class="card">
-                        <PhoneAndroid className="icon"/>
-                        <p>+31 615 392 591</p>
-                    </div>
-
                     <div class="card">
                         <GitHub className="icon"/>
                         <p><a href="https://github.com/jnavacar" style={{textDecoration: 'none', color: 'white'}} target="_blank" rel="noreferrer">GitHub</a></p>
