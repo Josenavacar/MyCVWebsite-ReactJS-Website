@@ -7,18 +7,12 @@ export const featuredPortfolio = [
     },
     {
         id: 2,
-        title: "Portfolio Website",
-        img: "assets/reactlogo.png",
-        link: "https://github.com/jnavacar/jnavacar-cvsite"
-    },
-    {
-        id: 3,
         title: "NightOfTheNerds",
         img: "assets/unitylogo.png",
         link: "https://github.com/jnavacar/NightOfTheNerdsEscapeRoom-UnityProject"
     },
     {
-        id: 4,
+        id: 3,
         title: "Mobeye App",
         img: "assets/csharplogo.png",
         link: "https://github.com/jnavacar/MobeyeApplication-PhoneApp"
