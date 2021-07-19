@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/jnavacar-cvsite/static/css/main.31bcf9ba.chunk.css",
-    "main.js": "/jnavacar-cvsite/static/js/main.5c8a0808.chunk.js",
-    "main.js.map": "/jnavacar-cvsite/static/js/main.5c8a0808.chunk.js.map",
-    "runtime-main.js": "/jnavacar-cvsite/static/js/runtime-main.d83f45c0.js",
-    "runtime-main.js.map": "/jnavacar-cvsite/static/js/runtime-main.d83f45c0.js.map",
-    "static/js/2.df5f1577.chunk.js": "/jnavacar-cvsite/static/js/2.df5f1577.chunk.js",
-    "static/js/2.df5f1577.chunk.js.map": "/jnavacar-cvsite/static/js/2.df5f1577.chunk.js.map",
+    "main.css": "/jnavacar-cvsite/static/css/main.5ba6a3ef.chunk.css",
+    "main.js": "/jnavacar-cvsite/static/js/main.cbabc6c7.chunk.js",
+    "main.js.map": "/jnavacar-cvsite/static/js/main.cbabc6c7.chunk.js.map",
+    "runtime-main.js": "/jnavacar-cvsite/static/js/runtime-main.93b6421c.js",
+    "runtime-main.js.map": "/jnavacar-cvsite/static/js/runtime-main.93b6421c.js.map",
+    "static/js/2.c0880297.chunk.js": "/jnavacar-cvsite/static/js/2.c0880297.chunk.js",
+    "static/js/2.c0880297.chunk.js.map": "/jnavacar-cvsite/static/js/2.c0880297.chunk.js.map",
     "index.html": "/jnavacar-cvsite/index.html",
-    "static/css/main.31bcf9ba.chunk.css.map": "/jnavacar-cvsite/static/css/main.31bcf9ba.chunk.css.map",
-    "static/js/2.df5f1577.chunk.js.LICENSE.txt": "/jnavacar-cvsite/static/js/2.df5f1577.chunk.js.LICENSE.txt"
+    "static/css/main.5ba6a3ef.chunk.css.map": "/jnavacar-cvsite/static/css/main.5ba6a3ef.chunk.css.map",
+    "static/js/2.c0880297.chunk.js.LICENSE.txt": "/jnavacar-cvsite/static/js/2.c0880297.chunk.js.LICENSE.txt",
+    "static/media/intro.scss": "/jnavacar-cvsite/static/media/b.17decbe4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d83f45c0.js",
-    "static/js/2.df5f1577.chunk.js",
-    "static/css/main.31bcf9ba.chunk.css",
-    "static/js/main.5c8a0808.chunk.js"
+    "static/js/runtime-main.93b6421c.js",
+    "static/js/2.c0880297.chunk.js",
+    "static/css/main.5ba6a3ef.chunk.css",
+    "static/js/main.cbabc6c7.chunk.js"
   ]
 }
