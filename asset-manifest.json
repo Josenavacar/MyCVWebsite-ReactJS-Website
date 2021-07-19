@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jnavacar-cvsite/static/css/main.5ba6a3ef.chunk.css",
+    "main.css": "/jnavacar-cvsite/static/css/main.2f536971.chunk.css",
     "main.js": "/jnavacar-cvsite/static/js/main.cbabc6c7.chunk.js",
     "main.js.map": "/jnavacar-cvsite/static/js/main.cbabc6c7.chunk.js.map",
     "runtime-main.js": "/jnavacar-cvsite/static/js/runtime-main.93b6421c.js",
@@ -8,14 +8,14 @@
     "static/js/2.c0880297.chunk.js": "/jnavacar-cvsite/static/js/2.c0880297.chunk.js",
     "static/js/2.c0880297.chunk.js.map": "/jnavacar-cvsite/static/js/2.c0880297.chunk.js.map",
     "index.html": "/jnavacar-cvsite/index.html",
-    "static/css/main.5ba6a3ef.chunk.css.map": "/jnavacar-cvsite/static/css/main.5ba6a3ef.chunk.css.map",
+    "static/css/main.2f536971.chunk.css.map": "/jnavacar-cvsite/static/css/main.2f536971.chunk.css.map",
     "static/js/2.c0880297.chunk.js.LICENSE.txt": "/jnavacar-cvsite/static/js/2.c0880297.chunk.js.LICENSE.txt",
     "static/media/intro.scss": "/jnavacar-cvsite/static/media/b.17decbe4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.93b6421c.js",
     "static/js/2.c0880297.chunk.js",
-    "static/css/main.5ba6a3ef.chunk.css",
+    "static/css/main.2f536971.chunk.css",
     "static/js/main.cbabc6c7.chunk.js"
   ]
 }
