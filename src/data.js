@@ -31,6 +31,12 @@ export const webappPortfolio = [
         title: "Portfolio Website",
         img: "assets/reactlogo.png",
         link: "https://github.com/jnavacar/jnavacar-cvsite"
+    },
+    {
+        id: 3,
+        title: "Microservice App",
+        img: "assets/kubernetes.png",
+        link: "https://github.com/FriendBook"
     }
 ];
 
