@@ -20,7 +20,7 @@ export const featuredPortfolio = [
     {
         id: 4,
         title: "Microservice App",
-        img: "assets/kubernetes.png",
+        img: "assets/kbnetes.png",
         link: "https://github.com/FriendBook"
     }
 ];
@@ -41,7 +41,7 @@ export const webappPortfolio = [
     {
         id: 3,
         title: "Microservice App",
-        img: "assets/kubernetes.png",
+        img: "assets/kbnetes.png",
         link: "https://github.com/FriendBook"
     }
 ];
