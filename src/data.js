@@ -16,6 +16,12 @@ export const featuredPortfolio = [
         title: "Mobeye App",
         img: "assets/csharplogo.png",
         link: "https://github.com/jnavacar/MobeyeApplication-PhoneApp"
+    },
+    {
+        id: 4,
+        title: "Microservice App",
+        img: "assets/kubernetes.png",
+        link: "https://github.com/FriendBook"
     }
 ];
 
