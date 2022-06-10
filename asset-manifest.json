@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jnavacar-cvsite/static/css/main.2f536971.chunk.css",
-    "main.js": "/jnavacar-cvsite/static/js/main.7fc78fb6.chunk.js",
-    "main.js.map": "/jnavacar-cvsite/static/js/main.7fc78fb6.chunk.js.map",
+    "main.js": "/jnavacar-cvsite/static/js/main.f8c8ea68.chunk.js",
+    "main.js.map": "/jnavacar-cvsite/static/js/main.f8c8ea68.chunk.js.map",
     "runtime-main.js": "/jnavacar-cvsite/static/js/runtime-main.93b6421c.js",
     "runtime-main.js.map": "/jnavacar-cvsite/static/js/runtime-main.93b6421c.js.map",
     "static/js/2.c0880297.chunk.js": "/jnavacar-cvsite/static/js/2.c0880297.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.93b6421c.js",
     "static/js/2.c0880297.chunk.js",
     "static/css/main.2f536971.chunk.css",
-    "static/js/main.7fc78fb6.chunk.js"
+    "static/js/main.f8c8ea68.chunk.js"
   ]
 }
