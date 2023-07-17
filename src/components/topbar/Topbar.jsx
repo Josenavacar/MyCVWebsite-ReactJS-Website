@@ -14,7 +14,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     </div>
                     <div className="itemContainer">
                         <Person className="icon"/>
-                        <a style={{textDecoration: 'none'}} href="https://drive.google.com/file/d/1Wmt4kLdu-l9YB007ZS_ihqGQeoKlmv4R/view?usp=sharing" target="_blank" rel="noreferrer" className="cv"><span>Resume</span></a>
+                        <a style={{textDecoration: 'none'}} href="https://drive.google.com/file/d/1f0eCHFvrWijJHmRn33VNBr5GKFmJ9diG/view?usp=sharing" target="_blank" rel="noreferrer" className="cv"><span>Curriculum Vitae</span></a>
                         
                     </div>
                 </div>
